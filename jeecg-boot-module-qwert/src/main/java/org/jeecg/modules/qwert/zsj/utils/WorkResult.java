@@ -24,7 +24,7 @@ public class WorkResult<T> implements Serializable {
 	/**
 	 * 成功标志
 	 */
-	@ApiModelProperty(value = "成功标志")
+	@ApiModelProperty(value = "成功的标志")
 	private boolean success = true;
 
 	/**

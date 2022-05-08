@@ -42,7 +42,6 @@ import java.util.Map;
 public class WorkZsjZbAController extends JeecgController<ZsjZbA, IZsjZbAService> {
    @Autowired
    private IZsjZbAService zsjZbAService;
-
    /**
     * 分页列表查询
     *
